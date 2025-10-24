@@ -11,4 +11,5 @@ you.addEventListener("click", function() {
         me.style.opacity = "0";
         me.style.transform = "translateY(600px)";
     }
+
 })
